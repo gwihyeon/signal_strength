@@ -7,6 +7,6 @@ pip3 install scapy
 ```
 
 ## Usage
-python3 signal_strength.py [interface] [ap_mac] 
+python3 signal_strength.py [interface] [ap_mac]  
 ex) python3 signal_strength.py wlan0 11:22:33:44:55:66  
 ![signal](./signal.png)
